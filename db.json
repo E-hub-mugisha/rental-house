@@ -1,0 +1,48 @@
+{
+  "houses": [
+    {
+      "id": 1,
+      "title": "Cozy Apartment",
+      "location": "Kigali",
+      "price": 200,
+      "isRented": false
+    },
+    {
+      "id": 2,
+      "title": "Luxury Villa",
+      "location": "Musanze",
+      "price": 500,
+      "isRented": false
+    }
+  ],
+  "rentals": [
+    {
+      "id": "38e9",
+      "houseId": 2,
+      "renter": "eric",
+      "days": "30",
+      "date": "2025-10-27T20:00:45.019Z"
+    },
+    {
+      "id": "9b23",
+      "houseId": 2,
+      "renter": "eric",
+      "days": "30",
+      "date": "2025-10-27T20:00:48.028Z"
+    },
+    {
+      "id": "1905",
+      "houseId": 2,
+      "renter": "eric",
+      "days": "30",
+      "date": "2025-10-27T20:01:01.774Z"
+    },
+    {
+      "id": "883b",
+      "houseId": 1,
+      "renter": "mugi",
+      "days": "90",
+      "date": "2025-10-27T20:04:04.774Z"
+    }
+  ]
+}
